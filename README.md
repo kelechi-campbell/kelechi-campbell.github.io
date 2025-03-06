@@ -13,14 +13,14 @@ Developed an Excel/Power BI dashboard to optimize order management, inventory tr
 
 ![Dashboard](/Assets/Pizza_Dashboard.JPG)
 
-### Key Achievements:
+#### Key Achievements:
 
 - Streamlined inventory tracking, preventing stock shortages.
 - Identified top-selling items and peak sales hours.
 - Developed dynamic order filtering to enhance business insights.
 - Implemented cost-per-pizza analysis for better pricing strategies.
 
-### Tools & Techniques:
+#### Tools & Techniques:
 
 - Microsoft Excel (Pivot Tables, Conditional Formatting, KPI Metrics)
 - Power BI (Advanced Data Visualization, Real-Time Analysis)
@@ -70,4 +70,13 @@ A Levels: Economics, Film Studies & Psychology | Oaks Park Sixth Form (_2016_)
 - Compiled and analysed venue availabilities to assist in tour planning and maximize occupancy rates.
 - Supported the creation of artist performance reports, evaluating engagement metrics and ROI.
 - Coordinated data entry and management of contracts, ensuring data integrity and accuracy in internal systems.
+
+## Certifications
+- From Excel to Power BI 
+- Introduction to SQL (Datacamp)
+- Intermediate SQL (Datacamp)
+- Joining Data in SQL (Datacamp)
+- Introduction to Python (Datacamp)
+- Introduction to Tableau (Datacamp)
+- Connecting Data in Tableau (Datacamp)
 
