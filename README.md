@@ -5,13 +5,13 @@
 ## Projects
 ### Interactive Order & Inventory Dashboard for Pizzeria
 
-![Pizzeria](/assets/img/image_fx_.jpg)
+![Pizzeria](/Assets/img/image_fx_.jpg)
 
 [Project]([https://drive.google.com/drive/folders/1RWZpYJYNt2pfERL1uYrbRb0uLej1pIzZ?usp=sharing]) 
 
 Developed an Excel/Power BI dashboard to optimize order management, inventory tracking, and cost analysis for a high-volume pizzeria. Enabled real-time insights into sales trends, ingredient stock levels, and production costs, improving operational efficiency and profitability.
 
-![Dashboard](/assets/img/Pizza_Dashboard.JPG)
+![Dashboard](/Assets/img/Pizza_Dashboard.JPG)
 
 ### Key Achievements:
 
