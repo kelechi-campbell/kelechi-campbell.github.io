@@ -5,13 +5,13 @@
 ## Projects
 ### Interactive Order & Inventory Dashboard for Pizzeria
 
-![Pizzeria](/Assets/img/image_fx_.jpg)
+![Pizzeria](/Assets/image_fx_.jpg)
 
-[Project]([https://drive.google.com/drive/folders/1RWZpYJYNt2pfERL1uYrbRb0uLej1pIzZ?usp=sharing]) 
+[Project](https://drive.google.com/drive/folders/1RWZpYJYNt2pfERL1uYrbRb0uLej1pIzZ?usp=sharing) 
 
 Developed an Excel/Power BI dashboard to optimize order management, inventory tracking, and cost analysis for a high-volume pizzeria. Enabled real-time insights into sales trends, ingredient stock levels, and production costs, improving operational efficiency and profitability.
 
-![Dashboard](/Assets/img/Pizza_Dashboard.JPG)
+![Dashboard](/Assets/Pizza_Dashboard.JPG)
 
 ### Key Achievements:
 
@@ -31,13 +31,13 @@ This automated dashboard provides a data-driven approach to managing sales, inve
 
 ### Interactive Sales Dashboard for Coca-Cola USA
 
-![Cola](/assets/img/image_fx_(1).jpg)
+![Cola](/Assets/image_fx_(1).jpg)
 
-[Project]([https://drive.google.com/drive/folders/1JyGI13m6awM4XMnGLexp78Ycq6eNKhdi?usp=sharing]) 
+[Project](https://drive.google.com/drive/folders/1JyGI13m6awM4XMnGLexp78Ycq6eNKhdi?usp=sharing) 
 
 Designed a dynamic Excel dashboard to analyze Coca-Cola USA retailer sales data, enabling efficient insights into total sales, units sold, average price, and operating profit. Integrated pivot tables, interactive slicers, and visualizations to enhance data-driven decision-making.
 
-![Dashboard](/assets/img/coca_cola_capture.JPG)
+![Dashboard](/Assets/coca_cola_capture.JPG)
 
 #### Key Achievements:
 
