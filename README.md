@@ -31,7 +31,7 @@ This automated dashboard provides a data-driven approach to managing sales, inve
 
 ### Interactive Sales Dashboard for Coca-Cola USA
 
-![Cola](/Assets/image_fx_(1).jpg)
+![Cola](/Assets/cola_cola.jpg)
 
 [Project](https://drive.google.com/drive/folders/1JyGI13m6awM4XMnGLexp78Ycq6eNKhdi?usp=sharing) 
 
