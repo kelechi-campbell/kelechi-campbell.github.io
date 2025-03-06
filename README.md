@@ -2,20 +2,20 @@
 
 ### Technical Skills: SQL, Excel, Tableau, Power BI
 
-### Projects
-## Interactive Order & Inventory Dashboard for Pizzeria
+## Projects
+### Interactive Order & Inventory Dashboard for Pizzeria
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048) <--- edit
 
 Developed an Excel/Power BI dashboard to optimize order management, inventory tracking, and cost analysis for a high-volume pizzeria. Enabled real-time insights into sales trends, ingredient stock levels, and production costs, improving operational efficiency and profitability.
 
-## Key Achievements:
+### Key Achievements:
 
 - Streamlined inventory tracking, preventing stock shortages.
 - Identified top-selling items and peak sales hours.
 - Developed dynamic order filtering to enhance business insights.
 - Implemented cost-per-pizza analysis for better pricing strategies.
 
-## Tools & Techniques:
+### Tools & Techniques:
 
 - Microsoft Excel (Pivot Tables, Conditional Formatting, KPI Metrics)
 - Power BI (Advanced Data Visualization, Real-Time Analysis)
@@ -24,19 +24,19 @@ Developed an Excel/Power BI dashboard to optimize order management, inventory tr
 
 This automated dashboard provides a data-driven approach to managing sales, inventory, and costs, enabling better decision-making and operational efficiency.
 
-## Interactive Sales Dashboard for Coca-Cola USA
+### Interactive Sales Dashboard for Coca-Cola USA
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048) <----- edit
 
 Designed a dynamic Excel dashboard to analyze Coca-Cola USA retailer sales data, enabling efficient insights into total sales, units sold, average price, and operating profit. Integrated pivot tables, interactive slicers, and visualizations to enhance data-driven decision-making.
 
-## Key Achievements:
+#### Key Achievements:
 
 - Increased sales visibility across multiple beverage brands and retailers.
 - Identified $7.2M YoY sales growth with brand and retailer performance comparisons.
 - Developed interactive filtering for real-time data exploration.
 - Applied variance analysis, KPI tracking, and trend visualization.
 
-## Tools & Techniques:
+##### Tools & Techniques:
 
 - Microsoft Excel (Pivot Tables, Bar Charts, Combo Charts, Conditional Formatting)
 - Data Analysis (YoY Variance, KPI Metrics, Seasonal Trends)
@@ -45,16 +45,11 @@ Designed a dynamic Excel dashboard to analyze Coca-Cola USA retailer sales data,
 This automated and visually appealing dashboard enables stakeholders to make informed strategic decisions based on real-time insights.
 
 
-### Education
+## Education
 A Levels: Economics, Film Studies & Psychology | Oaks Park Sixth Form (_2016_)
 
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
 ## Work Experience
+
 **Agent Assistant @ William Morris Endeavor (WME) (_September 2022 - June 2024_)**
 - Analyzed tour data, optimizing routing and venue selection based on historical performance and revenue trends.
 - Collaborated with artist management and promoters to track sales performance and audience engagement metrics.
