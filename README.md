@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Technical Skills: SQL, Excel, Tableau, Power BI
+#### Technical Skills: SQL, Excel, Tableau, Power BI
 
 ## Projects
 ### Interactive Order & Inventory Dashboard for Pizzeria
