@@ -72,7 +72,7 @@ A Levels: Economics, Film Studies & Psychology | Oaks Park Sixth Form (_2016_)
 - Coordinated data entry and management of contracts, ensuring data integrity and accuracy in internal systems.
 
 ## Certifications
-- From Excel to Power BI 
+- From Excel to Power BI (Coursera)
 - Introduction to SQL (Datacamp)
 - Intermediate SQL (Datacamp)
 - Joining Data in SQL (Datacamp)
