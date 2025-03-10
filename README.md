@@ -60,24 +60,26 @@ This automated and visually appealing dashboard enables stakeholders to make inf
 
 ### [Project](https://1drv.ms/p/c/cc08401e881f099a/ETgT2XEOnPREgS1T8NJUg_EBT5hFCZCTJaimH1G20SGxUQ?e=56B4DQ)
 
-Designed a dynamic Excel dashboard to analyze Coca-Cola USA retailer sales data, enabling efficient insights into total sales, units sold, average price, and operating profit. Integrated pivot tables, interactive slicers, and visualizations to enhance data-driven decision-making.
+Developed a data-driven dashboard to optimize team construction, player selection, and strategic decision-making in the modern NBA. Provided real-time insights into three-point shooting trends, player age dynamics, and roster efficiency, enabling better team-building strategies.
 
 ![Dashboard](/Assets/2ptv3pt.png)
 
 #### Key Achievements:
 
-- Increased sales visibility across multiple beverage brands and retailers.
-- Identified $7.2M YoY sales growth with brand and retailer performance comparisons.
-- Developed interactive filtering for real-time data exploration.
-- Applied variance analysis, KPI tracking, and trend visualization.
+- Identified a 1304.55% increase in three-point attempts (1971–2022) and a 40.42% decline in two-point attempts, confirming the league's shift in offensive strategy.
+- Highlighted PGs, SGs, and SFs as the most dominant positions for three-point shooting and scoring.
+- Provided a data-backed approach to prioritizing mid-to-late 20s players (25-30 years old) for peak performance and efficiency.
+- Showcased the importance of veteran leadership (31+) in playmaking and mentorship roles.
+- Developed an age-based player evaluation model, optimizing draft, trade, and signing decisions.
 
 ##### Tools & Techniques:
 
-- Microsoft Excel (Pivot Tables, Bar Charts, Combo Charts, Conditional Formatting)
-- Data Analysis (YoY Variance, KPI Metrics, Seasonal Trends)
-- User Interactivity (Slicers for Region & Year Selection)
+- Microsoft Excel (Pivot Tables, Statistical Modeling, Player Performance Metrics)
+- Tableau (Advanced Data Visualization, Age Group Analysis, 3PT Trends)
+- SQL (Player Stats & Performance Data Extraction)
+- Interactive Slicers (Filtering by Position, Age Group, and Scoring Efficiency)
 
-This automated and visually appealing dashboard enables stakeholders to make informed strategic decisions based on real-time insights. Please download from Google Drive to enable filters and full accessibility.
+This automated dashboard provides a data-driven approach to NBA roster construction, ensuring teams maximize efficiency in the three-point era while balancing youth development and veteran leadership.
 
 ## Education
 A Levels: Economics, Film Studies & Psychology | Oaks Park Sixth Form (_2016_)
