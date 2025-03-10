@@ -56,7 +56,7 @@ This automated and visually appealing dashboard enables stakeholders to make inf
 
 ### Interactive Dashboard for NBA Team Building 
 
-![Cola](/Assets/image_fx_(10).jpg)
+![Basketball](/Assets/image_fx_(10).jpg)
 
 ### [Project](https://1drv.ms/p/c/cc08401e881f099a/ETgT2XEOnPREgS1T8NJUg_EBT5hFCZCTJaimH1G20SGxUQ?e=56B4DQ)
 
