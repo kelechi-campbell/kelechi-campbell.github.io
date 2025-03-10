@@ -56,13 +56,13 @@ This automated and visually appealing dashboard enables stakeholders to make inf
 
 ### Interactive Dashboard for NBA Team Building 
 
-![Cola](/Assets/cola_cola.jpg)
+![Cola](/Assets/image_fx_(10).jpg)
 
 ### [Project](https://1drv.ms/p/c/cc08401e881f099a/ETgT2XEOnPREgS1T8NJUg_EBT5hFCZCTJaimH1G20SGxUQ?e=56B4DQ)
 
 Designed a dynamic Excel dashboard to analyze Coca-Cola USA retailer sales data, enabling efficient insights into total sales, units sold, average price, and operating profit. Integrated pivot tables, interactive slicers, and visualizations to enhance data-driven decision-making.
 
-![Dashboard](/Assets/coca_cola_capture.JPG)
+![Dashboard](/Assets/2PT_V_3PT.png)
 
 #### Key Achievements:
 
